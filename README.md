@@ -1,2 +1,2 @@
 # workingproxy
-u can add ur own proxy
+u can add/remove ur own working proxy
